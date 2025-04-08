@@ -1,20 +1,11 @@
 # AITenderAgent
+标书智能体Demo，主要用于展示前端
+**Version: 0.1.0**
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## Frontend Setup
 
 ```sh
 npm install
@@ -62,4 +53,21 @@ npm run test:e2e -- --debug
 ```sh
 npm run lint
 ```
+
+## Backend Setup
+
+### Set environment
+
+```sh
+pip install -r requirements.txt
+```
+
+### Run
+
+```sh
+python app.py
+```
+
 # AITenderAgent
+
+Lv Mingxin 2025/04/09
