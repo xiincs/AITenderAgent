@@ -2,7 +2,8 @@
 标书智能体Demo，主要用于展示前端
 **Version: 0.1.0**
 
-
+默认用户admin admin123
+请把后端cors处地址端口改为前端实际端口（如5173）
 
 
 ## Frontend Setup
