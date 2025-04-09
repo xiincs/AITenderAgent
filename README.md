@@ -1,9 +1,12 @@
 # AITenderAgent
-标书智能体Demo，主要用于展示前端
+标书智能体Demo
 **Version: 0.1.0**
 
 默认用户admin admin123
+
 请把后端cors处地址端口改为前端实际端口（如5173）
+
+deepseek apikey已配置，可以上传招标文件进行测试，解析时间可能较长（主要用于展示一下前端页面和交互流程）
 
 
 ## Frontend Setup
